@@ -1,0 +1,12 @@
+﻿@model Tarefa
+ 
+<h1>Confirme a tarefa:</h1>
+
+Id: @Model.TarefaId
+<br />
+Nome produto: @Model.NomeTarefa
+<br />
+Data de início: @Model.DtCad
+<br />
+
+<a class="btn btn-primary" asp-controller="Finalizado" asp-action="Index">Salvar</></a>

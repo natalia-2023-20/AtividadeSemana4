@@ -1,0 +1,20 @@
+﻿@model Tarefa
+
+<h2>Editar tarefa</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="TarefaId" />
+    <div class="form-group">
+        <label asp-for="NomeTarefa" class="control-label"></label>
+        <input asp-for="NomeTarefa" class="form-control" />
+        <span asp-validation-for="NomeTarefa" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DtCadFim" class="control-label"></label>
+        <input asp-for="DtCadFim" class="form-control" />
+        <span asp-validation-for="NomeTarefa" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="ToDo" class="btn btn-danger">Cancelar</a>
+</form>

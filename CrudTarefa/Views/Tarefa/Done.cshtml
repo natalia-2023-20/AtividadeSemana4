@@ -1,0 +1,18 @@
+﻿@model Tarefa
+
+<h1>Tarefa finalizada</h1>
+
+Id: @Model.TarefaId<br />
+Nome tarefa: @Model.NomeTarefa<br />
+<div class="form-group">
+    <label asp-for="DtCad" class="control-label">Data de conclusão</label>
+    <input asp-for="DtCad" class="form-control" />
+    <span asp-validation-for="DtCad" class="text-danger"></span>
+</div>
+
+<a asp-action="Delete" asp-route-id="@Model.TarefaId">Deletar</a>
+
+
+
+
+

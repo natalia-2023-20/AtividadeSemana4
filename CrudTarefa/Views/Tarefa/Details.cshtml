@@ -1,0 +1,15 @@
+﻿@model Tarefa
+
+<h1>Detalhes da tarefa</h1>
+<div>
+ID: @Model.TarefaId
+<br />
+Nome do produto: @Model.NomeTarefa
+<br />
+Data de início: @Model.DtCad
+<br />
+</div>
+
+<br />
+<a class="btn btn-danger" asp-action="Delete" asp-route-id="@Model.TarefaId">Deletar</a>
+<a class="btn btn-primary" asp-action="ToDo">Voltar</a></div>

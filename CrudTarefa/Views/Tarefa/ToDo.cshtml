@@ -1,0 +1,55 @@
+﻿@model List<Tarefa>
+
+
+<h2>Lista de tarefas</h2>
+
+<p>
+    <a class="btn btn-secondary" asp-action="Create">Adicionar tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tarefa ID</th>
+            <th>Nome da tarefa</th>
+            <th>Status</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tarefa in Model)
+        {
+            <tr>
+                <td>@tarefa.TarefaId</td>
+                <td>@tarefa.NomeTarefa</td>
+               
+                <td>
+                    @if (!tarefa.Concluida)
+                    {
+                        <a class="btn btn-success" asp-action="MarkAsCheck" asp-route-id="@tarefa.TarefaId"><i class="bi bi-check2"></i>Marcar como Concluída</a>
+                    }
+                    else
+                    {
+                        <a class="btn" disabled>Concluido</a>
+                    }
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@tarefa.TarefaId"><i class="bi bi-pencil"></i>Editar</a>
+                    <a class="btn btn-info" asp-action="Details" asp-route-id="@tarefa.TarefaId"><i class="bi bi-search"></i>Detalhes</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@tarefa.TarefaId"><i class="bi bi-trash"></i>Deletar</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table></table>
+
+
+
+
+
+
+
+
+
+
+

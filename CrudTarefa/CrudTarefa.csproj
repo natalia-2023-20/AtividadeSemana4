@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Fazendo\**" />
+    <Compile Remove="Views\Finalizado\**" />
+    <Compile Remove="wwwroot\img\**" />
+    <Content Remove="Views\Fazendo\**" />
+    <Content Remove="Views\Finalizado\**" />
+    <Content Remove="wwwroot\img\**" />
+    <EmbeddedResource Remove="Views\Fazendo\**" />
+    <EmbeddedResource Remove="Views\Finalizado\**" />
+    <EmbeddedResource Remove="wwwroot\img\**" />
+    <None Remove="Views\Fazendo\**" />
+    <None Remove="Views\Finalizado\**" />
+    <None Remove="wwwroot\img\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\FazendoController.cs" />
+    <Compile Remove="Controllers\FinalizadoController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Tarefa\Afazer.cshtml" />
+    <Content Remove="Views\Tarefa\check.cshtml" />
+    <Content Remove="Views\Tarefa\Doing.cshtml" />
+    <Content Remove="Views\Tarefa\Done.cshtml" />
+    <Content Remove="Views\Tarefa\Feito.cshtml" />
+    <Content Remove="Views\Tarefa\Index1.cshtml" />
+    <Content Remove="Views\Tarefa\MarkAsCheck.cshtml" />
+  </ItemGroup>
+
+</Project>
