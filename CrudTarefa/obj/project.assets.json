@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natalia.madeira\\Desktop\\Entrega 4\\CrudTarefa\\CrudTarefa.csproj",
+      "projectUniqueName": "C:\\Users\\natalia.madeira\\Desktop\\AtividadeSemana4\\CrudTarefa\\CrudTarefa.csproj",
       "projectName": "CrudTarefa",
-      "projectPath": "C:\\Users\\natalia.madeira\\Desktop\\Entrega 4\\CrudTarefa\\CrudTarefa.csproj",
+      "projectPath": "C:\\Users\\natalia.madeira\\Desktop\\AtividadeSemana4\\CrudTarefa\\CrudTarefa.csproj",
       "packagesPath": "C:\\Users\\natalia.madeira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natalia.madeira\\Desktop\\Entrega 4\\CrudTarefa\\obj\\",
+      "outputPath": "C:\\Users\\natalia.madeira\\Desktop\\AtividadeSemana4\\CrudTarefa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natalia.madeira\\AppData\\Roaming\\NuGet\\NuGet.Config",

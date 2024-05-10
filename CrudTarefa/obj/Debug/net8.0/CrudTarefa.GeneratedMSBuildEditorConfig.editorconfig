@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudTarefa
 build_property.RootNamespace = CrudTarefa
-build_property.ProjectDir = C:\Users\natalia.madeira\Desktop\Entrega 4\CrudTarefa\
+build_property.ProjectDir = C:\Users\natalia.madeira\Desktop\AtividadeSemana4\CrudTarefa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\natalia.madeira\Desktop\Entrega 4\CrudTarefa
+build_property.MSBuildProjectDirectory = C:\Users\natalia.madeira\Desktop\AtividadeSemana4\CrudTarefa
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Home/Index.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Home/Privacy.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Shared/Error.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Tarefa/Checked.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Tarefa/Checked.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXENoZWNrZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Tarefa/Create.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Tarefa/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Tarefa/Details.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Tarefa/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Tarefa/Edit.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Tarefa/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Tarefa/ToDo.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Tarefa/ToDo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXFRvRG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/_ViewImports.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/_ViewStart.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natalia.madeira/Desktop/Entrega 4/CrudTarefa/Views/Shared/_Layout.cshtml]
+[C:/Users/natalia.madeira/Desktop/AtividadeSemana4/CrudTarefa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uqqjnyum21

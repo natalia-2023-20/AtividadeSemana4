@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudTarefa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb24630259ab71a005bc734c6306960291c55a78")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudTarefa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudTarefa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
